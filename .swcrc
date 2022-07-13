@@ -1,0 +1,17 @@
+{
+    "jsc": {
+        "parser": {
+            "syntax": "typescript",
+            "jsx": true,
+            "decorators": false
+        },
+        "transform": null,
+        "target": "es2022"
+    },
+    "module": {
+        "type": "es6"
+    },
+    "test": ".tsx?$",
+    "sourceMaps": false,
+    "inlineSourcesContent": false
+}
